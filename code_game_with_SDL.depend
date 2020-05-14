@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1587345393 source:c:\users\l\appdata\local\microsoft\windows\burn\burn\watashicode\code_game_with_sdl\game_xo.cpp
+	<vector>
+	<string>
+	<ctime>
+	<cstdlib>
+	<SDL.h>
+	<SDL_image.h>
+
+1588658870 source:c:\users\l\appdata\local\microsoft\windows\burn\burn\watashicode\code_game_with_sdl\game_xo_1.cpp
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1588696756 source:c:\users\l\appdata\local\microsoft\windows\burn\burn\watashicode\code_game_with_sdl\game_xo_2.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<sstream>
+
+1588694179 source:c:\users\l\appdata\local\microsoft\windows\burn\burn\watashicode\code_game_with_sdl\file_boss.cpp
+	"file_boss.h"
+
+1588695229 c:\users\l\appdata\local\microsoft\windows\burn\burn\watashicode\code_game_with_sdl\file_boss.h
+	"config.h"
+	"table_game.h"
+
+1588696460 c:\users\l\appdata\local\microsoft\windows\burn\burn\watashicode\code_game_with_sdl\config.h
+	<iostream>
+	<ctime>
+	<vector>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<sstream>
+
+1588695326 c:\users\l\appdata\local\microsoft\windows\burn\burn\watashicode\code_game_with_sdl\table_game.h
+	"config.h"
+	"file_boss.h"
+
+1588694727 source:c:\users\l\appdata\local\microsoft\windows\burn\burn\watashicode\code_game_with_sdl\table_game.cpp
+	"table_game.h"
+
+1588742241 source:e:\watashicode\code_game_with_sdl\game_xo_2.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<sstream>
+
+1588742241 source:e:\watashicode\caro_vs boss_with_sdl\game_xo_2.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<sstream>
+
+1589441526 source:e:\mycode\caro_vs boss_with_sdl\game_xo_2.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<sstream>
+
