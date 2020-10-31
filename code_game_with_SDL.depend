@@ -77,3 +77,13 @@
 	<SDL_ttf.h>
 	<sstream>
 
+1604123891 source:e:\learn c++\mycode\caro\caro\game_xo_2.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<sstream>
+

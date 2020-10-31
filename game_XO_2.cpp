@@ -5,6 +5,7 @@ Luật chơi:
 -Mặc định người chơi đi trước
 -Khi người chơi đạt được năm ô liên tiếp mà không bị chặn cả 2 đầu thì người chơi sẽ chiến thắng
 -Nếu máy đạt được chuỗi đó thì người chơi thua
+-git ngày 31/10/2020
 */
 
 /*Khai báo thư viện----------------------------------*/
